@@ -14,7 +14,7 @@ The Royal Crown Hotel Website is a web-based project designed to provide informa
 - **About Us:** Provides information about the hotel.
 - **Services:** Displays the services and facilities offered.
 - **Contact Page:** Provides contact information for visitors.
-- **Delivery page:** Allows customers to make delivery
+- **Delivery page:** Allows customers to make orders 
 
 ## 4. Technologies Used
 - HTML — structures the web pages.
@@ -30,14 +30,14 @@ The Royal Crown Hotel Website is a web-based project designed to provide informa
 The project may contain files and folders such as:
 
 - `index.html` — the main page.
-- `about.html` — the hotel information page, if available.
-- `contact.html` — the contact page, if available.
-- `style.css` — the website stylesheet, if available.
-- `script.js` — the JavaScript file, if available.
-- `images/` — images used on the website, if available.
+- `about.html` — the hotel information page 
+- `contact.html` — the contact page
+- `style.css` — the website stylesheet
+- `script.js` — the JavaScript file
+- `images/` — images used on the website
 
 ## 7. Author
 **Name:** [Muhanguzi Barnabas]
 
 ## 8. License
-This project is for educational and demonstration purposes unless otherwise specified.
+This project is licensed by MTN company and demonstration purposes unless otherwise specified.
